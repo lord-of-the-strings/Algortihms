@@ -2,7 +2,7 @@
 Step-by-step visualization of important algorithms for visual learners
 
 ## 1. Kadane's Algorithm
-Kadane's Algorithm typically finds the [maximum subarray sum] (https://cses.fi/problemset/task/1643). It finds wide applications in various fields like business analysis and detecting the time window in which the CPU was most overloaded. 
+Kadane's Algorithm typically finds the [maximum subarray sum](https://cses.fi/problemset/task/1643). It finds wide applications in various fields like business analysis and detecting the time window in which the CPU was most overloaded. 
 A typical implementation in python looks like:
 ```python
 best=0
